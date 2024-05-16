@@ -1,1 +1,1 @@
-# Ps99-dupe-gem
+# Ps99-script
